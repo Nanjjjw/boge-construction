@@ -1,0 +1,15 @@
+﻿# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# PowerShell scripts (temporary)
+*.ps1
+
+# Don't ignore assets folder
+!assets/
